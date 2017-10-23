@@ -28,8 +28,10 @@
 </div>
 
 <p class=footertext2> 
+
 **Abstract:** In this seminar I will give an overview of some of our main results in science of science. I will show that the distribution of citation of papers in any discipline can be rescaled to a universal curve, justifying the use of normalized indicators. I will explore the effect of author's reputation in the impact of her papers and derive some consequences of the exponential growth of scientific output. I will introduce a network-based approach to compute the novelty of a product. Finally I will present an intriguing observation on the dynamics of Nobel Prize conferment.
 </p>
+
 <br>
 
 <h4 class=pfblock-header3> Thursday, 10/26/2017 </h4>
