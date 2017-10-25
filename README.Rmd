@@ -112,7 +112,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <h4 class=pfblock-header3> Thursday, `r date` </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
-<h4 class=pfblock-header3> Rosenwald Hall 015 </h4>
+<h4 class=pfblock-header3> Kent 120 </h4>
 
 <br>
 
@@ -136,7 +136,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 ---
 
-<p class=footertext> The 2017-2018 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11 to 12:20 p.m. in Rosenwald 015. All interested faculty and graduate students are welcome.</p> 
+<p class=footertext> The 2017-2018 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11 to 12:20 p.m. in Kent 120. All interested faculty and graduate students are welcome.</p> 
 
 <p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href="`r issues_page`"> issues page </a> of the <a href="`r repo_page`"> workshop's public repository on GitHub.</a> Further instructions are documented in the Computational Social Science Workshop's <a href="https://github.com/uchicago-computation-workshop/README"> README on Github.</a></p>
 
